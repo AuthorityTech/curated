@@ -2,7 +2,7 @@
 title: Yahoo Scout Just Changed The AI Visibility Game (And Most Brands Will Miss It)
 date: 2026-01-29
 tags: [AI Visibility, AEO, News]
-published_url: https://prstack.authoritytech.io/yahoo-scout-just-changed-the-ai-visibility-game-and-most-brands-will-miss-it/
+published_url: https://curated.authoritytech.io/yahoo-scout-just-changed-the-ai-visibility-game-and-most-brands-will-miss-it/
 ---
 
 # Yahoo Scout Just Changed The AI Visibility Game (And Most Brands Will Miss It)
@@ -200,4 +200,4 @@ You won't.
 
 ---
 
-*About PR Stack: Strategic intelligence on AI visibility and earned media. We're the publication that calls out traditional PR agency bullshit and helps founders learn AI visibility before their competitors do.*
+*About Curated by AuthorityTech: Strategic intelligence on AI visibility and earned media. We're the publication that calls out traditional PR agency bullshit and helps founders learn AI visibility before their competitors do.*

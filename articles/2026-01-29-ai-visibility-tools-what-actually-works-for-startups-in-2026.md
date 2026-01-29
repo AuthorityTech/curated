@@ -2,7 +2,7 @@
 title: AI Visibility Tools: What Actually Works for Startups in 2026
 date: 2026-01-29
 tags: [AI Visibility, AEO, News, Tools]
-published_url: https://prstack.authoritytech.io/ai-visibility-tools-what-actually-works-for-startups-in-2026/
+published_url: https://curated.authoritytech.io/ai-visibility-tools-what-actually-works-for-startups-in-2026/
 slug: ai-visibility-tools-what-actually-works-for-startups-in-2026
 word_count: 1245
 ---
@@ -57,4 +57,4 @@ Based on the tools analysis and current AI search trends, here's your action pla
 
 ---
 
-*More on AI Visibility and Answer Engine Optimization at [prstack.authoritytech.io](https://prstack.authoritytech.io)*
+*More on AI Visibility and Answer Engine Optimization at [curated.authoritytech.io](https://curated.authoritytech.io)*

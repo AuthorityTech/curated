@@ -4,11 +4,11 @@ title: Yahoo Scout Just Changed The AI Visibility Game (And Most Brands Will Mis
 description: Yahoo Scout launched with 250M users, Claude AI, and different citation logic. The answer engine market is fragmenting—and most AEO strategies just became obsolete.
 date: 2026-01-29
 tags: [AI Visibility, AEO, News]
-ghost_url: https://prstack.authoritytech.io/yahoo-scout-just-changed-the-ai-visibility-game-and-most-brands-will-miss-it/
-image: https://prstack.authoritytech.io/content/images/2026/01/image.png
+ghost_url: https://curated.authoritytech.io/yahoo-scout-just-changed-the-ai-visibility-game-and-most-brands-will-miss-it/
+image: https://curated.authoritytech.io/content/images/2026/01/image.png
 ---
 
-![Hero Image](https://prstack.authoritytech.io/content/images/2026/01/image.png)
+![Hero Image](https://curated.authoritytech.io/content/images/2026/01/image.png)
 
 # Yahoo Scout Just Changed The AI Visibility Game (And Most Brands Will Miss It)
 
@@ -205,8 +205,8 @@ You won't.
 
 ---
 
-*About PR Stack: Strategic intelligence on AI visibility and earned media. We're the publication that calls out traditional PR agency bullshit and helps founders learn AI visibility before their competitors do.*
+*About Curated by AuthorityTech: Strategic intelligence on AI visibility and earned media. We're the publication that calls out traditional PR agency bullshit and helps founders learn AI visibility before their competitors do.*
 
 ---
 
-[Read on Ghost](https://prstack.authoritytech.io/yahoo-scout-just-changed-the-ai-visibility-game-and-most-brands-will-miss-it/)
+[Read on Ghost](https://curated.authoritytech.io/yahoo-scout-just-changed-the-ai-visibility-game-and-most-brands-will-miss-it/)
