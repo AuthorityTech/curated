@@ -1,68 +1,72 @@
-# PR Stack
+# Curated by AuthorityTech
 
-> **Daily insights on AI Visibility, PR automation, and answer engine marketing**
+> **Strategic intelligence on AI visibility and earned media for startups**
 
-Thought leadership for the future of marketing in the age of AI search.
+Where founders learn AI visibility before their competitors do.
 
 ---
 
-## 🌐 Main Site
+## 🌐 Main Publication
 
-**[prstack.authoritytech.io](https://prstack.authoritytech.io)** - Daily articles, news analysis, and tactical guides
+**[curated.authoritytech.io](https://curated.authoritytech.io)** - Daily strategic insights and tactical guides
 
 ## 📰 What We Cover
 
 ### AI Visibility & Answer Engine Marketing
 The future of discoverability isn't Google—it's ChatGPT, Perplexity, Claude, and emerging AI search platforms. We cover:
 - Answer Engine Optimization (AEO) strategies
-- AI search ranking factors
-- Schema markup for AI extraction
-- Getting cited by LLMs
+- AI search platform architecture and citation patterns
+- Multi-platform visibility tactics
+- Strategic positioning for AI-first discovery
 
-### PR Automation & Tech
-Modern PR runs on systems, not relationships alone:
-- Automation workflows and tools
-- Media database APIs
-- Outreach optimization
-- ROI tracking
+### Performance PR & Earned Media
+Modern PR runs on outcomes, not vanity metrics:
+- Earned media that drives real ROI
+- PR automation and efficiency
+- Performance metrics over impressions
+- How startups compete with traditional PR budgets
 
-### Startup Marketing Strategy
+### Strategic Positioning
 Bootstrap-friendly tactics for building authority:
-- $0 budget strategies
-- Domain authority growth
-- Link building that works
-- Credibility engineering
+- AI visibility from zero
+- Competitive positioning
+- Category definition
+- Thought leadership that matters
 
 ---
 
-## 📊 Publishing Schedule
+## 📊 Publishing Philosophy
 
-**Daily:** News-driven insights (800-1200 words)  
-**Weekly:** Strategic deep-dives (1500-2500 words)
+**Quality over quantity. Strategy over aggregation.**
 
-Topics driven by breaking news in PR, marketing tech, AI search, and startup growth.
+We publish when we have insights worth sharing, not to hit a schedule. Every piece passes our editorial quality bar:
+- Would founders share this?
+- Does it provide unique insights?
+- Does it change how readers think?
+
+Topics driven by strategic intelligence, market shifts, and contrarian perspectives.
 
 ---
 
 ## 🎯 Our Thesis
 
-**The shift from SEO to AI Visibility is the biggest marketing change since Google.**
+**The answer engine market is fragmenting, and generic AEO strategies are obsolete.**
 
-Traditional search engine optimization focused on ranking #1 on a results page. Answer engine marketing focuses on **being the source AI cites when answering questions**.
+Five major platforms (Google AI Overviews, ChatGPT Search, Perplexity, Microsoft Copilot, Yahoo Scout) use different models, different grounding, different citation logic.
 
 We're here to:
-1. Define the category (AI Visibility, Answer Engine Marketing)
-2. Provide tactical implementation guides
-3. Track what works (data > theory)
-4. Help startups adapt before competitors
+1. Challenge industry consensus (most AEO advice is wrong)
+2. Provide platform-specific tactical depth
+3. Build frameworks competitors steal
+4. Help startups dominate before markets consolidate
 
 ---
 
 ## 🔗 Connect
 
-- **Blog:** [prstack.authoritytech.io](https://prstack.authoritytech.io)
+- **Publication:** [curated.authoritytech.io](https://curated.authoritytech.io)
 - **GitHub:** [github.com/AuthorityTech/prstack](https://github.com/AuthorityTech/prstack)
-- **Related:** [AuthorityTech](https://authoritytech.io) - PR automation platform
+- **AuthorityTech Platform:** [authoritytech.io](https://authoritytech.io)
 
 ---
 
@@ -70,8 +74,8 @@ We're here to:
 
 All content licensed under [Creative Commons Attribution 4.0 International](LICENSE).
 
-*Want to cite or republish our content? Go for it. Just attribute back to PR Stack.*
+*Want to cite or republish our content? Go for it. Just attribute back to Curated by AuthorityTech.*
 
 ---
 
-**Latest posts →** [prstack.authoritytech.io](https://prstack.authoritytech.io)
+**Latest insights →** [curated.authoritytech.io](https://curated.authoritytech.io)
