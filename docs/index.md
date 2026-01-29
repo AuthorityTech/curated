@@ -29,48 +29,46 @@ It's the evolution of SEO for a world where ChatGPT, Perplexity, Claude, and Gem
 ### 🤖 Answer Engine Marketing (AEM)
 - How AI search actually works
 - Getting cited by LLMs
-- Schema markup strategies
-- Structured data for AI extraction
+- Platform-specific optimization
+- Multi-platform visibility tactics
 
-### 📢 PR Automation
+### 📢 Performance PR & Earned Media
 - Modern outreach workflows
-- Media database APIs
-- Automation tools & tactics
+- PR automation and efficiency
+- Performance metrics over impressions
 - ROI measurement
 
-### 🚀 Startup Growth
+### 🚀 Strategic Positioning
 - Building authority from zero
-- $0 budget strategies
-- Domain credibility tactics
-- Link building that works
+- Competitive positioning strategies
+- Thought leadership that matters
+- Category definition
 
 ---
 
-## Publishing Schedule
+## Publishing Philosophy
 
-**📰 Daily News & Insights** (800-1200 words)  
-Breaking down the latest in PR tech, AI search, and marketing automation
+**Quality over quantity. Strategy over aggregation.**
 
-**📊 Weekly Deep Dives** (1500-2500 words)  
-Strategic frameworks, case studies, and tactical implementation guides
+We publish when we have insights worth sharing, not to hit a schedule. Every piece passes our editorial quality bar.
 
 ---
 
 ## Why This Matters
 
-The shift from traditional SEO to AI Visibility is happening **right now**.
+The answer engine market is **fragmenting**, not consolidating.
 
-Companies that adapt early will dominate answer engine results. Those that don't will be invisible to the next generation of search.
+Five major platforms (Google AI Overviews, ChatGPT Search, Perplexity, Microsoft Copilot, Yahoo Scout) use different models, different grounding, different citation logic.
 
-We're tracking this transition, defining the category, and sharing what works.
+Companies that understand platform-specific optimization will dominate. Those following generic AEO advice will fragment their results.
 
 ---
 
 ## Resources
 
-- **Main Blog:** [prstack.authoritytech.io](https://prstack.authoritytech.io)
+- **Main Publication:** [curated.authoritytech.io](https://curated.authoritytech.io)
 - **GitHub Repo:** [github.com/AuthorityTech/prstack](https://github.com/AuthorityTech/prstack)
-- **Related Tool:** [AuthorityTech](https://authoritytech.io) - PR automation platform
+- **AuthorityTech Platform:** [authoritytech.io](https://authoritytech.io) - Performance PR automation
 
 ---
 
@@ -79,8 +77,8 @@ We're tracking this transition, defining the category, and sharing what works.
 - **[2026-01-29]** [Yahoo Scout Just Changed The AI Visibility Game (And Most Brands Will Miss It)](articles/2026-01-29-yahoo-scout-ai-visibility-fragmentation.html) - Yahoo Scout launched with 250M users, Claude AI, and different citation logic—proving the answer engine market is fragmenting, not consolidating
 - **[2026-01-29]** [AI Visibility Tools: What Actually Works for Startups in 2026](articles/2026-01-29-ai-visibility-tools-what-actually-works-for-startups-in-2026.html) - Analysis of 10 best AI visibility tracking tools for startups (OmniSEO®, Ahrefs, Otterly.AI, etc.)
 
-Visit [prstack.authoritytech.io](https://prstack.authoritytech.io) for the newest content.
+Visit [curated.authoritytech.io](https://curated.authoritytech.io) for the newest strategic insights.
 
 ---
 
-<small>Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite freely, attribute back.</small>
+<small>Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite freely, attribute back to Curated by AuthorityTech.</small>
