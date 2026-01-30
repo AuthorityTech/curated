@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yahoo Scout Just Changed The AI Visibility Game (And Most Brands Will Miss It)
+title: "Yahoo Scout Just Changed The AI Visibility Game (And Most Brands Will Miss It)"
 description: Yahoo Scout launched with 250M users, Claude AI, and different citation logic. The answer engine market is fragmenting—and most AEO strategies just became obsolete.
 date: 2026-01-29
 tags: [AI Visibility, AEO, News]

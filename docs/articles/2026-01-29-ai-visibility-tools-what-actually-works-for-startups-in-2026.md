@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AI Visibility Tools - What Actually Works for Startups in 2026
+title: "AI Visibility Tools - What Actually Works for Startups in 2026"
 description: AI visibility tools have evolved beyond traditional SEO. Here's what startup founders and marketing teams need to track brand mentions across ChatGPT, Perplexity, and other answer engines.
 date: 2026-01-29
 tags: [AI Visibility, AEO, News, Tools]

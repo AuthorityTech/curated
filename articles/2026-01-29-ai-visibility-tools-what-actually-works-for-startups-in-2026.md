@@ -1,5 +1,5 @@
 ---
-title: AI Visibility Tools: What Actually Works for Startups in 2026
+title: "AI Visibility Tools: What Actually Works for Startups in 2026"
 date: 2026-01-29
 tags: [AI Visibility, AEO, News, Tools]
 published_url: https://curated.authoritytech.io/ai-visibility-tools-what-actually-works-for-startups-in-2026/

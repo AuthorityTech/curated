@@ -1,5 +1,5 @@
 ---
-title: The Structured Data Delusion: Why Schema Won't Save Your AEO Strategy
+title: "The Structured Data Delusion: Why Schema Won't Save Your AEO Strategy"
 date: 2026-01-30
 canonical_url: https://curated.authoritytech.io/the-structured-data-delusion-why-schema-wont-save-your-aeo-strategy/
 tags: [AEO, AI Visibility, SEO, Structured Data]
