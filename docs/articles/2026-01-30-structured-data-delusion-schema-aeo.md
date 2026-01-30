@@ -3,8 +3,8 @@ layout: default
 title: "The Structured Data Delusion - Why Schema Won't Save Your AEO Strategy"
 description: The AEO industry's new myth - just add schema markup and AI engines will cite you. Here's why structured data won't save your strategy.
 date: 2026-01-30
-canonical_url: https://curated.authoritytech.io/the-structured-data-delusion-why-schema-wont-save-your-aeo-strategy/
-image: https://curated.authoritytech.io/content/images/2026/01/image-1.png
+canonical_url: "https://curated.authoritytech.io/the-structured-data-delusion-why-schema-wont-save-your-aeo-strategy/"
+image: "https://curated.authoritytech.io/content/images/2026/01/image-1.png"
 source: curated
 ---
 

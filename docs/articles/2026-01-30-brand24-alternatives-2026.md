@@ -3,8 +3,8 @@ layout: default
 title: "Brand24 Alternatives: Best Brand Monitoring Tools for 2026"
 description: Compare the best Brand24 alternatives in 2026. From affordable social listening tools to comprehensive earned media platforms with AI visibility tracking.
 date: 2026-01-30
-canonical_url: https://authoritytech.io/blog/brand24-alternatives-2026
-image: https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-brand24-alternatives.png
+canonical_url: "https://authoritytech.io/blog/brand24-alternatives-2026"
+image: "https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-brand24-alternatives.png"
 source: authoritytech-blog
 ---
 

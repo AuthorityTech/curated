@@ -1,7 +1,7 @@
 ---
 title: "Brand24 Alternatives: Best Brand Monitoring Tools for 2026"
 date: 2026-01-30
-canonical_url: https://authoritytech.io/blog/brand24-alternatives-2026
+canonical_url: "https://authoritytech.io/blog/brand24-alternatives-2026"
 tags: [Brand Monitoring, Social Listening, AI Visibility, Competitor Comparison]
 source: authoritytech-blog
 ---
