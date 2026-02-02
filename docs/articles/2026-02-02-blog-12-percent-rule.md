@@ -1,0 +1,1 @@
+@/tmp/curated-archives/2026-02-02-blog-12-percent-rule.md
