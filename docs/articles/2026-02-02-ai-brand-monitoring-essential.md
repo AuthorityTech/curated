@@ -3,8 +3,8 @@ layout: default
 title: "Why AI Brand Monitoring Became Essential Overnight (And What It Means for PR)"
 description: "The shift from Google to AI search happened faster than most PR teams realized. Here's why AI brand monitoring became essential and what it means for strategy."
 date: 2026-02-02
-canonical_url: https://curated.authoritytech.io/why-ai-brand-monitoring-became-essential-overnight-and-what-it-means-for-pr/
-image: https://curated.authoritytech.io/content/images/2026/02/image.png
+canonical_url: "https://curated.authoritytech.io/why-ai-brand-monitoring-became-essential-overnight-and-what-it-means-for-pr/"
+image: "https://curated.authoritytech.io/content/images/2026/02/image.png"
 source: curated
 author: Jaxon Pierce
 ---

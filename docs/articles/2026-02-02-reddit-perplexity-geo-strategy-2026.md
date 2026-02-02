@@ -3,8 +3,8 @@ layout: default
 title: "How to Get Cited by Perplexity AI: The Reddit GEO Strategy Actually Working in 2026"
 description: "Reddit citations in Perplexity AI surged 450% — here's the exact strategy to optimize your Reddit presence for AI search visibility and get your brand cited consistently."
 date: 2026-02-02
-canonical_url: https://blog.authoritytech.io/reddit-perplexity-geo-strategy-2026
-image: https://blog.authoritytech.io/images/reddit-perplexity-geo-strategy-2026.jpg
+canonical_url: "https://blog.authoritytech.io/reddit-perplexity-geo-strategy-2026"
+image: "https://blog.authoritytech.io/images/reddit-perplexity-geo-strategy-2026.jpg"
 source: authoritytech-blog
 ---
 

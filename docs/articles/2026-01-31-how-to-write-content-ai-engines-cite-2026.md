@@ -3,8 +3,8 @@ layout: default
 title: How to Write Content That AI Engines Actually Cite in 2026
 description: Seven editorial principles that make content AI-citeable - answer-first structure, entity clarity, source attribution, semantic depth, quotable stats, structured queries, and recency signals.
 date: 2026-01-31
-canonical_url: https://authoritytech.io/blog/how-to-write-content-ai-engines-cite-2026
-image: https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-31-how-to-write-content-ai-engines-cite-2026.png
+canonical_url: "https://authoritytech.io/blog/how-to-write-content-ai-engines-cite-2026"
+image: "https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-31-how-to-write-content-ai-engines-cite-2026.png"
 source: authoritytech-blog
 ---
 

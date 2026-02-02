@@ -3,8 +3,8 @@ layout: default
 title: What 2 Million LLM Sessions Reveal About AI Discovery in 2026
 description: ChatGPT commands 84% of AI discovery traffic, but Copilot grew 25x faster. New data from 2M LLM sessions reveals which platforms win in which industries—and what it means for your brand's visibility strategy.
 date: 2026-02-02
-canonical_url: https://blog.authoritytech.io/2-million-llm-sessions-ai-discovery-2026
-image: https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/2m-llm-sessions-discovery.png
+canonical_url: "https://blog.authoritytech.io/2-million-llm-sessions-ai-discovery-2026"
+image: "https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/2m-llm-sessions-discovery.png"
 source: authoritytech-blog
 ---
 

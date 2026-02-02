@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 34% of AI Citations Go to One Publisher: How to Break Into the Winner's Circle
+title: "34% of AI Citations Go to One Publisher: How to Break Into the Winner's Circle"
 description: 34% of AI citations go to just one publisher on each platform. Here's how to break into the winner's circle before citation dominance locks in.
 date: 2026-02-02
-canonical_url: https://curated.authoritytech.io/34-of-ai-citations-go-to-one-publisher-how-to-break-into-the-winners-circle/
-image: https://curated.authoritytech.io/content/images/2026/02/image-3.png
+canonical_url: "https://curated.authoritytech.io/34-of-ai-citations-go-to-one-publisher-how-to-break-into-the-winners-circle/"
+image: "https://curated.authoritytech.io/content/images/2026/02/image-3.png"
 source: curated
 author: Christian Lehman
 ---
