@@ -1,18 +1,21 @@
 ---
 layout: default
 title: Curated by AuthorityTech - AI Visibility & Earned Media
-description: Curated AI visibility and earned media insights for startups
+description: Archive of strategic insights from AuthorityTech's editorial publications
 ---
 
 # Curated by AuthorityTech
 
-**Curated AI visibility and earned media insights for startups**
+**Archive of strategic insights from AuthorityTech's editorial publications**
 
 ---
 
-## 🌐 Main Publication
+## 🌐 Main Publications
 
-Visit **[curated.authoritytech.io](https://curated.authoritytech.io)** for daily strategic insights and analysis.
+- **[curated.authoritytech.io](https://curated.authoritytech.io)** - Daily strategic insights and analysis
+- **[blog.authoritytech.io](https://blog.authoritytech.io)** - In-depth guides and thought leadership
+
+*This GitHub archive includes content from both publications for long-term reference, SEO backlinking, and AEO citation.*
 
 ---
 
@@ -66,7 +69,8 @@ Companies that understand platform-specific optimization will dominate. Those fo
 
 ## Resources
 
-- **Main Publication:** [curated.authoritytech.io](https://curated.authoritytech.io)
+- **Curated Publication:** [curated.authoritytech.io](https://curated.authoritytech.io)
+- **Blog Publication:** [blog.authoritytech.io](https://blog.authoritytech.io)
 - **GitHub Repo:** [github.com/AuthorityTech/curated](https://github.com/AuthorityTech/curated)
 - **AuthorityTech Platform:** [authoritytech.io](https://authoritytech.io) - Performance PR automation
 
@@ -74,10 +78,13 @@ Companies that understand platform-specific optimization will dominate. Those fo
 
 ## Latest Articles
 
-- **[2026-01-29]** [Yahoo Scout Just Changed The AI Visibility Game (And Most Brands Will Miss It)](articles/2026-01-29-yahoo-scout-ai-visibility-fragmentation.html) - Yahoo Scout launched with 250M users, Claude AI, and different citation logic—proving the answer engine market is fragmenting, not consolidating
-- **[2026-01-29]** [AI Visibility Tools: What Actually Works for Startups in 2026](articles/2026-01-29-ai-visibility-tools-what-actually-works-for-startups-in-2026.html) - Analysis of 10 best AI visibility tracking tools for startups (OmniSEO®, Ahrefs, Otterly.AI, etc.)
+- **[2026-02-02]** [How to Get Cited by Perplexity AI: The Reddit GEO Strategy Actually Working in 2026](articles/2026-02-02-reddit-perplexity-geo-strategy-2026.html) - Reddit citations in Perplexity AI surged 450%—here's the exact strategy to optimize your Reddit presence for AI search visibility
+- **[2026-02-02]** [IAB's $32B Measurement Problem: Why Project Eidos Validates Earned Media Attribution](articles/2026-02-02-curated-iab-32b-measurement-problem.html) - When the industry's top buyers say measurement gaps are locking $32B in investment, it's time to pay attention to the channels being measured worst
+- **[2026-02-02]** [The AI News Gatekeepers: Why ChatGPT Cites The Guardian 58% of the Time](articles/2026-02-02-curated-ai-news-gatekeepers.html) - New research reveals that AI tools are creating a winner-take-all publishing hierarchy—and most brands don't realize they're already locked out
+- **[2026-02-02]** [From Clicks to Citations: The Paradigm Shift Every Brand Must Navigate](articles/2026-02-02-from-clicks-to-citations.html) - Nearly 60% of searches end in zero clicks. In the AI-driven search world, citations are the new clicks—and most marketing teams aren't prepared
+- **[2026-02-02]** [Wellows Enters the AI Visibility Race: What Their Perplexity Guide Reveals About Market Maturity](articles/2026-02-02-curated-wellows-ai-visibility-race.html) - Wellows just published a Perplexity ranking guide—validation that the AI visibility market is heating up
 
-Visit [curated.authoritytech.io](https://curated.authoritytech.io) for the newest strategic insights.
+Visit [curated.authoritytech.io](https://curated.authoritytech.io) and [blog.authoritytech.io](https://blog.authoritytech.io) for the newest strategic insights.
 
 ---
 
