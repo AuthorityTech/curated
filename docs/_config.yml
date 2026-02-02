@@ -1,7 +1,7 @@
 title: "Curated by AuthorityTech"
-description: "Curated AI visibility and earned media insights for startups"
-baseurl: "/curated"
-url: "https://authoritytech.github.io"
+description: "Archive of strategic insights from AuthorityTech's editorial publications"
+baseurl: ""
+url: "https://archive.authoritytech.io"
 
 # Build settings
 markdown: kramdown
@@ -20,3 +20,4 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
