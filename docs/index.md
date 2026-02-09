@@ -85,12 +85,6 @@ Companies that understand platform-specific optimization will dominate. Those fo
 - **[2026-02-07]** [How to Actually Track If AI Is Recommending Your Brand](articles/2026-02-07-curated-track-ai-brand-recommendations.html) - A practical guide to monitoring what ChatGPT, Perplexity, and Claude say about you.
 - **[2026-02-07]** [The PR Tech SaaS-pocalypse: Why AI Is Coming for Cision, Muck Rack, and Meltwater Next](articles/2026-02-07-blog-pr-tech-saas-pocalypse.html) - Anthropic's Claude Cowork triggered a trillion-dollar software selloff. Here's why PR tech vendors face the same existential threat.
 - **[2026-02-06]** [Google Overtakes OpenAI—But Can Your Brand Keep Up?](articles/2026-02-06-curated-google-overtakes-openai-multi-engine-geo.html) - Multi-engine GEO strategy is now mandatory as Google reclaims the AI search lead
-- **[2026-02-06]** [AI-Powered CEO Smear Campaigns Surge 150%](articles/2026-02-06-curated-ai-ceo-smear-campaigns.html) - AI-generated disinformation targeting executives has surged. Your crisis playbook needs a complete rewrite.
-- **[2026-02-06]** [83% of Your AI Search Traffic Just Vanished](articles/2026-02-06-curated-zero-click-crisis.html) - The zero-click crisis is real—and most brands are measuring it wrong
-- **[2026-02-06]** [The $1 Trillion AI Disruption](articles/2026-02-06-curated-trillion-dollar-ai-disruption.html) - Claude Cowork just wiped $1T in market cap. Every industry is next.
-- **[2026-02-06]** [AI Search Forces PR Content Rethink](articles/2026-02-06-blog-ai-search-pr-content.html) - Major PR platforms validated what we've taught: press releases alone can't win AI visibility
-- **[2026-02-05]** [Machine Relations: How AI Newsrooms Are Filtering Your Pitches](articles/2026-02-05-blog-machine-relations-ai-newsrooms-filtering-pitches-2026.html) - 96% of newsrooms now use AI automation to filter pitches
-- **[2026-02-05]** [Press Release Renaissance for AI Search](articles/2026-02-05-blog-press-release-ai-search-renaissance.html) - An $80 press release can rank #1 in Google and appear in AI Overviews within days
 
 Visit [curated.authoritytech.io](https://curated.authoritytech.io) and [blog.authoritytech.io](https://blog.authoritytech.io) for the newest strategic insights.
 
