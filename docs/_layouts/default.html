@@ -6,72 +6,64 @@
     <title>{{ page.title | default: site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     
-    <!-- JSON-LD Schema for AEO/SEO -->
-    {% if page.layout == 'default' and page.date %}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "BlogPosting",
-      "headline": "{{ page.title }}",
-      "description": "{{ page.description }}",
-      "datePublished": "{{ page.date | date_to_xmlschema }}",
-      "dateModified": "{{ page.date | date_to_xmlschema }}",
-      "author": {
-        "@type": "Person",
-        "name": "Jaxon Parrott",
-        "url": "https://jaxonparrott.com"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Curated by AuthorityTech",
-        "url": "https://curated.authoritytech.io/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://curated.authoritytech.io/content/images/size/w256h256/2026/01/Icon-black-with-square-bg-1.png"
+      "@graph": [
+        {% if page.url == "/" or page.url == "/index.html" %}
+        {
+          "@type": "DataCatalog",
+          "@id": "https://archive.authoritytech.io/#catalog",
+          "url": "https://archive.authoritytech.io/",
+          "name": "AuthorityTech Strategic Archive",
+          "description": "Long-term archive of strategic insights on AI Visibility, GEO, and Performance PR.",
+          "publisher": { "@id": "https://authoritytech.io/#organization" },
+          "creator": { "@id": "https://jaxonparrott.com/#person" }
+        },
+        {% endif %}
+        {% if page.date %}
+        {
+          "@type": "BlogPosting",
+          "headline": "{{ page.title }}",
+          "description": "{{ page.description }}",
+          "datePublished": "{{ page.date | date_to_xmlschema }}",
+          "author": { "@id": "https://jaxonparrott.com/#person" },
+          "publisher": { "@id": "https://authoritytech.io/#organization" },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ page.url | absolute_url }}"
+          }
+        },
+        {% endif %}
+        {
+          "@type": "Organization",
+          "@id": "https://authoritytech.io/#organization",
+          "name": "AuthorityTech",
+          "url": "https://authoritytech.io"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://jaxonparrott.com/#person",
+          "name": "Jaxon Parrott",
+          "url": "https://jaxonparrott.com",
+          "jobTitle": "CEO",
+          "worksFor": { "@id": "https://authoritytech.io/#organization" }
         }
-      },
-      {% if page.image %}
-      "image": {
-        "@type": "ImageObject",
-        "url": "{{ page.image }}"
-      },
-      {% endif %}
-      "articleBody": {{ content | strip_html | jsonify }},
-      "keywords": "{{ page.tags | join: ', ' }}",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ page.url | absolute_url }}"
-      }
+      ]
     }
     </script>
-    {% endif %}
     
-    <!-- Open Graph -->
     <meta property="og:title" content="{{ page.title | default: site.title }}">
     <meta property="og:description" content="{{ page.description | default: site.description }}">
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
-    {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}">
-    {% endif %}
     
-    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ page.title | default: site.title }}">
     <meta name="twitter:description" content="{{ page.description | default: site.description }}">
-    {% if page.image %}
-    <meta name="twitter:image" content="{{ page.image }}">
-    {% endif %}
     
     <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem;
-            color: #333;
-        }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 2rem; color: #333; }
         h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
         h2 { font-size: 2rem; margin-top: 2rem; border-bottom: 2px solid #eee; padding-bottom: 0.5rem; }
         h3 { font-size: 1.5rem; margin-top: 1.5rem; }
@@ -81,13 +73,11 @@
         code { background: #f4f4f4; padding: 2px 6px; border-radius: 3px; }
         pre { background: #f4f4f4; padding: 1rem; border-radius: 8px; overflow-x: auto; }
         blockquote { border-left: 4px solid #ddd; padding-left: 1rem; margin-left: 0; color: #666; }
-        .meta { color: #666; font-size: 0.9rem; margin-bottom: 2rem; }
         .back-link { margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #eee; }
     </style>
 </head>
 <body>
     {{ content }}
-    
     <div class="back-link">
         <a href="{{ site.baseurl }}/">← Back to Curated</a>
     </div>
