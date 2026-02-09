@@ -75,6 +75,14 @@ Companies that understand platform-specific optimization will dominate. Those fo
 - **AuthorityTech Platform:** [authoritytech.io](https://authoritytech.io) - Performance PR automation
 ## Latest Articles
 
+- **[2026-02-09]** [How PR Teams Are Finally Cracking the Measurement Problem in 2026](articles/2026-02-09-blog-pr-measurement-unified-framework.html) - Unified measurement frameworks are replacing fragmented PR metrics. Here's what actually works.
+- **[2026-02-09]** [The AI Backlash Is Here — And That's Actually Good News](articles/2026-02-09-curated-ai-backlash-quality-filter.html) - The growing pushback against AI-generated content is a quality filter, not a threat.
+- **[2026-02-09]** [The Simple GEO Checklist Every Marketing Team Needs in 2026](articles/2026-02-09-curated-geo-checklist-2026.html) - A practical, actionable GEO checklist for marketing teams navigating AI search optimization.
+- **[2026-02-08]** [The AI-in-PR Plateau: 76% Adoption Won't Save You](articles/2026-02-08-blog-ai-pr-plateau.html) - Muck Rack's 2026 report shows PR adoption flatlined at 76%. The gap is widening.
+- **[2026-02-08]** [Deep Citation Changes Everything](articles/2026-02-08-curated-deep-citation.html) - Perplexity's Comet browser links every claim to its original source. Being the verified source is now the whole game.
+- **[2026-02-08]** [AI Companies Are Paying $400K for Storytellers](articles/2026-02-08-curated-talent-war.html) - Anthropic tripled their comms team. OpenAI paying $400K for comms. What should startups learn?
+- **[2026-02-07]** [The PR Measurement Revolution: Your Metrics Are Lying to You](articles/2026-02-07-curated-pr-measurement-revolution.html) - The uncomfortable truth about PR metrics — and what actually matters now.
+- **[2026-02-07]** [How to Actually Track If AI Is Recommending Your Brand](articles/2026-02-07-curated-track-ai-brand-recommendations.html) - A practical guide to monitoring what ChatGPT, Perplexity, and Claude say about you.
 - **[2026-02-07]** [The PR Tech SaaS-pocalypse: Why AI Is Coming for Cision, Muck Rack, and Meltwater Next](articles/2026-02-07-blog-pr-tech-saas-pocalypse.html) - Anthropic's Claude Cowork triggered a trillion-dollar software selloff. Here's why PR tech vendors face the same existential threat.
 - **[2026-02-06]** [Google Overtakes OpenAI—But Can Your Brand Keep Up?](articles/2026-02-06-curated-google-overtakes-openai-multi-engine-geo.html) - Multi-engine GEO strategy is now mandatory as Google reclaims the AI search lead
 - **[2026-02-06]** [AI-Powered CEO Smear Campaigns Surge 150%](articles/2026-02-06-curated-ai-ceo-smear-campaigns.html) - AI-generated disinformation targeting executives has surged. Your crisis playbook needs a complete rewrite.
