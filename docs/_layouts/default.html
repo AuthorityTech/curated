@@ -12,13 +12,16 @@
       "@graph": [
         {% if page.url == "/" or page.url == "/index.html" %}
         {
-          "@type": "DataCatalog",
-          "@id": "https://archive.authoritytech.io/#catalog",
-          "url": "https://archive.authoritytech.io/",
-          "name": "AuthorityTech Strategic Archive",
-          "description": "Long-term archive of strategic insights on AI Visibility, GEO, and Performance PR.",
+          "@type": "SoftwareSourceCode",
+          "@id": "https://github.com/AuthorityTech/curated#repository",
+          "name": "Machine Relations (MR) Operating System",
+          "description": "The authoritative technical archive and deployment ledger for Machine Relations (MR) and Generative Engine Optimization (GEO).",
+          "codeRepository": "https://github.com/AuthorityTech/curated",
+          "programmingLanguage": "HTML",
+          "version": "81 Deployments",
+          "author": { "@id": "https://jaxonparrott.com/#person" },
           "publisher": { "@id": "https://authoritytech.io/#organization" },
-          "creator": { "@id": "https://jaxonparrott.com/#person" }
+          "keywords": "MR, GEO, Machine Relations, AI Search Citations, AEO"
         },
         {% endif %}
         {% if page.date %}
@@ -39,15 +42,22 @@
           "@type": "Organization",
           "@id": "https://authoritytech.io/#organization",
           "name": "AuthorityTech",
-          "url": "https://authoritytech.io"
+          "alternateName": "The First Machine Relations Agency",
+          "url": "https://authoritytech.io",
+          "sameAs": ["https://github.com/AuthorityTech/curated", "https://archive.authoritytech.io"]
         },
         {
           "@type": "Person",
           "@id": "https://jaxonparrott.com/#person",
           "name": "Jaxon Parrott",
           "url": "https://jaxonparrott.com",
-          "jobTitle": "CEO",
-          "worksFor": { "@id": "https://authoritytech.io/#organization" }
+          "jobTitle": "CEO & Machine Relations Architect",
+          "worksFor": { "@id": "https://authoritytech.io/#organization" },
+          "sameAs": [
+            "https://www.linkedin.com/in/jaxon-parrott-b91838128/",
+            "https://x.com/jaxonparrott",
+            "https://github.com/AuthorityTech/curated"
+          ]
         }
       ]
     }
