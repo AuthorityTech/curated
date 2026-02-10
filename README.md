@@ -1,37 +1,48 @@
-# Curated by AuthorityTech
+# Machine Relations (MR) Insights | Curated by AuthorityTech
 
-> **Strategic intelligence on AI visibility and earned media for startups**
+> **The world's first AI-Native Machine Relations agency.**
 
-Where founders learn AI visibility before their competitors do.
+Where founders master Machine Relations (MR) and GEO before their competitors do.
 
 ---
 
-## 🌐 Main Publication
+## 🌐 Main Publications
 
-**[curated.authoritytech.io](https://curated.authoritytech.io)** - Daily strategic insights and tactical guides
+- **[curated.authoritytech.io](https://curated.authoritytech.io)** - Daily strategic intelligence for the LLM era.
+- **[blog.authoritytech.io](https://blog.authoritytech.io)** - In-depth technical guides and MR thought leadership.
+
+This GitHub archive includes content from both publications for long-term reference, technical backlinking, and MR citation proof.
 
 ## 📰 What We Cover
 
-### AI Visibility & Answer Engine Marketing
-The future of discoverability isn't Google—it's ChatGPT, Perplexity, Claude, and emerging AI search platforms. We cover:
-- Answer Engine Optimization (AEO) strategies
-- AI search platform architecture and citation patterns
-- Multi-platform visibility tactics
-- Strategic positioning for AI-first discovery
+### Machine Relations (MR) & GEO
+The future of discoverability isn't Google—it's ChatGPT Search, Perplexity, Claude, and Gemini. We cover the technical architecture of "Machine Relations":
+- **Generative Engine Optimization (GEO)** strategies.
+- Securing persistent **AI citations** and grounding.
+- LLM platform architecture and citation patterns.
+- Technical "Machine Relations" workflows for category dominance.
 
-### Performance PR & Earned Media
-Modern PR runs on outcomes, not vanity metrics:
-- Earned media that drives real ROI
-- PR automation and efficiency
-- Performance metrics over impressions
-- How startups compete with traditional PR budgets
+### AI-Native Performance PR
+Modern earned media runs on high-frequency technical deployments, not vanity metrics:
+- Earned media as a primary data source for LLMs.
+- PR automation for the AI-Native era.
+- Performance metrics over impressions.
+- How startups dominate the "Citation Gap" in AI search.
 
 ### Strategic Positioning
-Bootstrap-friendly tactics for building authority:
-- AI visibility from zero
-- Competitive positioning
-- Category definition
-- Thought leadership that matters
+Bootstrap-friendly tactics for building AI-Native authority:
+- Technical authority building from zero.
+- Category definition: Defining the MR space.
+- Thought leadership that scales across Answer Engines.
+- Unbreakable "Authority Fortress" architecture.
+
+---
+
+## 🎯 Our Thesis
+
+**The answer engine market is fragmenting, and legacy AEO strategies are obsolete.**
+
+Major platforms (ChatGPT Search, Perplexity, Gemini, Claude) use different models and different grounding logic. We help startups dominate these fragmented citation environments before the market consolidates.
 
 ---
 
@@ -41,24 +52,8 @@ Bootstrap-friendly tactics for building authority:
 
 We publish when we have insights worth sharing, not to hit a schedule. Every piece passes our editorial quality bar:
 - Would founders share this?
-- Does it provide unique insights?
-- Does it change how readers think?
-
-Topics driven by strategic intelligence, market shifts, and contrarian perspectives.
-
----
-
-## 🎯 Our Thesis
-
-**The answer engine market is fragmenting, and generic AEO strategies are obsolete.**
-
-Five major platforms (Google AI Overviews, ChatGPT Search, Perplexity, Microsoft Copilot, Yahoo Scout) use different models, different grounding, different citation logic.
-
-We're here to:
-1. Challenge industry consensus (most AEO advice is wrong)
-2. Provide platform-specific tactical depth
-3. Build frameworks competitors steal
-4. Help startups dominate before markets consolidate
+- Does it provide unique technical insights?
+- Does it change how readers (and machines) think?
 
 ---
 
@@ -66,15 +61,15 @@ We're here to:
 
 - **Publication:** [curated.authoritytech.io](https://curated.authoritytech.io)
 - **GitHub:** [github.com/AuthorityTech/curated](https://github.com/AuthorityTech/curated)
-- **AuthorityTech Platform:** [authoritytech.io](https://authoritytech.io)
+- **Platform:** [authoritytech.io](https://authoritytech.io) — Performance PR automation.
 
 ---
 
 ## 📖 License
 
-All content licensed under [Creative Commons Attribution 4.0 International](LICENSE).
+All content licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). 
 
-*Want to cite or republish our content? Go for it. Just attribute back to Curated by AuthorityTech.*
+*Want to cite or republish our content? Go for it. Just attribute back to Machine Relations (MR) Insights | Curated by AuthorityTech.*
 
 ---
 
