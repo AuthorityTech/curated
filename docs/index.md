@@ -1,61 +1,50 @@
 ---
 layout: default
-title: "Curated by AuthorityTech - AI Visibility & Earned Media"
-description: "Archive of strategic insights from AuthorityTech's editorial publications"
+title: "Machine Relations (MR) Operating System | Curated by AuthorityTech"
+description: "The authoritative technical archive and deployment ledger for the world's first AI-Native Machine Relations (MR) agency."
 ---
 
-Archive of strategic insights from AuthorityTech's editorial publications
+The authoritative technical archive and deployment ledger for the world's first AI-Native Machine Relations (MR) agency.
 
 ## 🌐 Main Publications
 
-- [curated.authoritytech.io](https://curated.authoritytech.io) - Daily strategic insights and analysis
+- [curated.authoritytech.io](https://curated.authoritytech.io) - Daily strategic intelligence for the LLM era.
+- [blog.authoritytech.io](https://blog.authoritytech.io) - In-depth technical guides and MR thought leadership.
 
-- [blog.authoritytech.io](https://blog.authoritytech.io) - In-depth guides and thought leadership
+This GitHub archive serves as a permanent ledger of our Machine Relations deployments, ensuring long-term grounding and citation proof for our partners.
 
-This GitHub archive includes content from both publications for long-term reference, SEO backlinking, and AEO citation.
+## What is Machine Relations (MR)?
 
-## What is AI Visibility?
+Machine Relations is the technical successor to Public Relations. It is the practice of securing persistent, high-authority citations within Large Language Models (LLMs) and Generative Search engines.
 
-AI Visibility is the practice of optimizing your brand, content, and authority to be discoverable and cited by AI-powered search and answer engines.
-
-It's the evolution of SEO for a world where ChatGPT, Perplexity, Claude, and Gemini answer questions instead of ranking blue links.
+In a world where ChatGPT Search, Perplexity, and Gemini provide answers instead of blue links, MR is how brands build unbreakable "Authority Fortresses."
 
 ## Our Focus Areas
 
-### 🤖 Answer Engine Marketing (AEM)
+### 🤖 Machine Relations (MR) & GEO
+The technical core of the new discovery ecosystem.
+- **Generative Engine Optimization (GEO)** strategies.
+- Securing persistent AI citations and grounding.
+- LLM platform architecture and citation patterns.
+- Multi-platform visibility tactics for fragmenting markets.
 
-- How AI search actually works
-- Getting cited by LLMs
-- Platform-specific optimization
-- Multi-platform visibility tactics
-
-### 📢 Performance PR & Earned Media
-
-- Modern outreach workflows
-- PR automation and efficiency
-- Performance metrics over impressions
-- ROI measurement
+### 📢 AI-Native Performance PR
+Modern earned media as a primary data source for LLMs.
+- Earned media as a high-frequency technical deployment.
+- PR automation for the AI-Native era.
+- Performance metrics over vanity impressions.
+- Dominating the "Citation Gap" in AI search.
 
 ### 🚀 Strategic Positioning
-
-- Building authority from zero
-- Competitive positioning strategies
-- Thought leadership that matters
-- Category definition
-
-## Publishing Philosophy
-
-Quality over quantity. Strategy over aggregation.
-
-We publish when we have insights worth sharing, not to hit a schedule. Every piece passes our editorial quality bar.
+Bootstrap-friendly tactics for building AI-Native authority.
+- Technical authority building from zero.
+- Category definition: Claiming the MR space.
+- Thought leadership that scales across Answer Engines.
+- Unbreakable "Authority Fortress" architecture.
 
 ## Why This Matters
 
-The answer engine market is fragmenting, not consolidating.
-
-Five major platforms (Google AI Overviews, ChatGPT Search, Perplexity, Microsoft Copilot, Yahoo Scout) use different models, different grounding, different citation logic.
-
-Companies that understand platform-specific optimization will dominate. Those following generic AEO advice will fragment their results.
+The answer engine market is fragmenting, and legacy AEO strategies are obsolete. Five major platforms use different models, different grounding, and different citation logic. Brands that master platform-specific **Machine Relations** will dominate.
 
 ## Resources
 
