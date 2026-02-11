@@ -55,6 +55,9 @@ The answer engine market is fragmenting, and legacy AEO strategies are obsolete.
 
 ## Latest Articles
 
+- [2026-02-11] [Marketing Measurement Crisis 2026: The Invisible AI Attribution Gap](https://blog.authoritytech.io/marketing-measurement-crisis-ai-attribution-gap) — *AuthorityTech (Blog)*
+- [2026-02-11] [GEO vs MR: Why Software Isn't Strategy](articles/geo-vs-mr-software-strategy.md) — *Jaxon Parrott*
+- [2026-02-11] [How to Pitch When AI Filters Your Story First](articles/pitch-ai-filters-story.md) — *Christian Lehman*
 - [2026-02-10] [GEO Agencies 2026: Market Guide to Choosing a Machine Relations Partner](https://blog.authoritytech.io/geo-agencies-2026-market-guide) — *AuthorityTech (Blog)*
 - [2026-02-10] [Edelman Down 8.1% While Publicis Grows 4%—The PR Industry Is Splitting in Two](articles/edelman-pr-crisis.md) — *Jaxon Parrott*
 - [2026-02-10] [Your CFO Doesn't Trust Your PR Metrics—Here's How to Fix It](articles/cfo-attribution.md) — *Christian Lehman*
@@ -62,6 +65,3 @@ The answer engine market is fragmenting, and legacy AEO strategies are obsolete.
 - [2026-02-10] [How AI Newsrooms Filter Your Pitches in 2026 (And What to Do About It)](articles/ai-newsrooms-filter-pitches-2026.md) — *Christian Lehman*
 - [2026-02-09] [How PR Teams Are Finally Cracking the Measurement Problem in 2026](articles/2026-02-09-blog-pr-measurement-unified-framework-2026.html)
 - [2026-02-08] [The Citation Gap: Why Your Top-Ranked Content Is Invisible to AI](articles/2026-02-08-blog-citation-gap-seo-rankings-invisible-ai-search.html)
-- [2026-02-08] [The AI-in-PR Plateau: 76% Adoption Won't Save You—Here's What Separates the Leaders](articles/2026-02-08-blog-ai-pr-plateau-76-percent-adoption-what-separates-leaders.html)
-- [2026-02-07] [The PR Tech SaaS-pocalypse: Why AI Is Coming for Cision, Muck Rack, and Meltwater Next](articles/2026-02-07-blog-pr-tech-saas-pocalypse-ai-disruption-cision-meltwater-muck-r.html)
-- [2026-02-07] [When Your PR Agency Becomes a Revenue Center: The 2026 Shift](articles/2026-02-07-blog-pr-agency-revenue-center-ai-visibility-growth-lever.html)
