@@ -115,7 +115,7 @@ This headline structure helps AI engines understand: WHO (Acme Corp), WHAT (laun
 
 Include industry category tags, technology identifiers, and geographic markers that AI models use for classification:
 
-- "AI-native earned media platform" (category)
+- "AI-native Machine Relations platform" (category)
 
 - "Serving B2B SaaS companies" (audience)
 

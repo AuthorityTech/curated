@@ -269,4 +269,4 @@ The 2026 shift isn't coming. It's here. PR has never had a clearer path to provi
 
 ---
 
-*[AuthorityTech](https://authoritytech.io) is the first AI-native earned media agency, built from the ground up for how AI search works. We offer guaranteed media placements with results-based pricing—because when PR drives measurable outcomes, agencies should be accountable for delivering them.*
+*[AuthorityTech](https://authoritytech.io) is the first AI-native Machine Relations (MR) agency, built from the ground up for how AI search works. We offer guaranteed media placements with results-based pricing—because when PR drives measurable outcomes, agencies should be accountable for delivering them.*

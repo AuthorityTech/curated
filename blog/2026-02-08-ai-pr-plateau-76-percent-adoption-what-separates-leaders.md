@@ -209,4 +209,4 @@ Which side of that sort are you on?
 
 ---
 
-**AuthorityTech is the first AI-native earned media agency.** We help brands get featured in the publications that ChatGPT, Perplexity, and journalists actually cite. [Get a free AI visibility audit](https://app.authoritytech.io/visibility-audit) to see where you stand—and where you're invisible.
+**AuthorityTech is the first AI-native Machine Relations (MR) agency.** We help brands get featured in the publications that ChatGPT, Perplexity, and journalists actually cite. [Get a free AI visibility audit](https://app.authoritytech.io/visibility-audit) to see where you stand—and where you're invisible.

@@ -61,7 +61,7 @@ This is why earned media has become the single highest-value asset for AI visibi
 
 ## The Category Opportunity
 
-Here's what excites me about this shift: we built AuthorityTech as an AI-native earned media agency before AI search was even a thing. We focused on guaranteed placements in top-tier publications because that's what drove real results for brands.
+Here's what excites me about this shift: we built AuthorityTech as the first AI-native Machine Relations (MR) agency before AI search was even a thing. We focused on guaranteed placements in top-tier publications because that's what drove real results for brands.
 
 Now it turns out that approach is exactly what AI visibility requires.
 
