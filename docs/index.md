@@ -55,6 +55,9 @@ The answer engine market is fragmenting, and legacy AEO strategies are obsolete.
 
 ## Latest Articles
 
+- [2026-02-12] [How to Get Your Brand Cited by ChatGPT, Perplexity, and Google AI Overviews in 2026](https://blog.authoritytech.io/how-to-get-cited-by-chatgpt-perplexity-ai-overview-2026) — *AuthorityTech (Blog)*
+- [2026-02-12] [The Machine Relations Shift: Why Earning AI Citations Is the New PR](articles/2026-02-12-curated-machine-relations-shift-earning-ai-citations-pr.md) — *Jaxon Parrott*
+- [2026-02-12] [How to Actually Get Your Brand Cited by AI in 2026 — A Practical Framework](articles/2026-02-12-curated-how-to-get-brand-cited-ai-practical-framework.md) — *Christian Lehman*
 - [2026-02-11] [Marketing Measurement Crisis 2026: The Invisible AI Attribution Gap](https://blog.authoritytech.io/marketing-measurement-crisis-ai-attribution-gap) — *AuthorityTech (Blog)*
 - [2026-02-11] [GEO vs MR: Why Software Isn't Strategy](articles/geo-vs-mr-software-strategy.md) — *Jaxon Parrott*
 - [2026-02-11] [How to Pitch When AI Filters Your Story First](articles/pitch-ai-filters-story.md) — *Christian Lehman*
@@ -65,3 +68,4 @@ The answer engine market is fragmenting, and legacy AEO strategies are obsolete.
 - [2026-02-10] [How AI Newsrooms Filter Your Pitches in 2026 (And What to Do About It)](articles/ai-newsrooms-filter-pitches-2026.md) — *Christian Lehman*
 - [2026-02-09] [How PR Teams Are Finally Cracking the Measurement Problem in 2026](articles/2026-02-09-blog-pr-measurement-unified-framework-2026.html)
 - [2026-02-08] [The Citation Gap: Why Your Top-Ranked Content Is Invisible to AI](articles/2026-02-08-blog-citation-gap-seo-rankings-invisible-ai-search.html)
+
